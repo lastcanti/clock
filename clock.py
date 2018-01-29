@@ -80,6 +80,6 @@ elif mins <= 30:
 elif mins <=40:
     print("oh fourty")
 elif mins <= 50:
-    print("ohfifty")
+    print("oh fifty")
 
     
